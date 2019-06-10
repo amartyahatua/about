@@ -1,5 +1,9 @@
 ## Welcome to GitHub Pages
 
+I am a Ph.D. student in School of Computing, The University of Southern Mississippi. My area of interest is mainly Machine Learning, Big Data, Data Mining, Artificial Neural Network, Algorithm and related topics. I am working as Research Assistant under Dr. Andrew H Sung since August 2016 in USM. I worked as a Senior Software Engineer in LG Soft India in Bangalore, India(August 2013 to June 2016)​
+
+
+
 You can use the [editor on GitHub](https://github.com/amartyahatua/about/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
