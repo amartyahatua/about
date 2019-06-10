@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 
-I am a Ph.D. student in School of Computing, The University of Southern Mississippi. My area of interest is mainly Machine Learning, Big Data, Data Mining, Artificial Neural Network, Algorithm and related topics. I am working as Research Assistant under Dr. Andrew H Sung (https://www.usm.edu/computing/faculty/andrew-h-sung) since August 2016 in USM. I worked as a Senior Software Engineer in LG Soft India in Bangalore, India(August 2013 to June 2016)​
+I am a Ph.D. student in School of Computing, The University of Southern Mississippi. My area of interest is mainly Machine Learning, Big Data, Data Mining, Artificial Neural Network, Algorithm and related topics. I am working as Research Assistant under [Dr. Andrew H. Sung] (https://www.usm.edu/computing/faculty/andrew-h-sung) since August 2016 in USM. I worked as a Senior Software Engineer in LG Soft India in Bangalore, India(August 2013 to June 2016)​
 
 
 
